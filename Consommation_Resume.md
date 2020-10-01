@@ -65,6 +65,26 @@ Ex: take a 20$ gift card for a resto where each slice of cake costs 4$ + each cu
 
 - These parameters impose limits to what you can consume. You can choose one of the following combinations of cake and coffee.
 
+#### Tableau 1 
+
 | | nb of slice of cake (x) | nb of cups of coffee (y) | amount spent in cake (p_xx) | amount spent in coffee (p_y_y) |
 |-|-|-|-|-|
-|Combination 1| 0 | 10 | 0 | 20 |
+| Combination 1 | 0 | 10 | 0 | 20 |
+| Combination 2 | 1 | 8 | 4 | 16 |
+| Combination 3 | 2 | 6 | 8 | 12 |
+| Combination 4 | 3 | 4 | 12 | 8 | 
+| Combination 5 | 4 | 2 | 16 | 4 |
+| Combination 6 | 5 | 0 | 20 | 0 |
+
+Notice that all combination satisfies the linear equation:
+
+**4x + 2y = 20**
+
+Here the **4x** is the sum spent in cake:the number of pieces (**x**) multiplied by the prize (**$4** per piece). Similarly **2y** is the sum spent in coffee. A more general way is (i.e. allowing different values for the parameters) 
+
+**p_xx +p_yy = R**
+
+- This equation is called ** contrainte budgetaire**. It's the equation that we need to satisfy to balance a budget.
+- This equation can be represented on a graph
+- it would be a downward diagonal line.
+
