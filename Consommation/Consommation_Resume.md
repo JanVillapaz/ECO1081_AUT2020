@@ -85,6 +85,24 @@ Here the **4x** is the sum spent in cake:the number of pieces (**x**) multiplied
 **p_xx +p_yy = R**
 
 - This equation is called ** contrainte budgetaire**. It's the equation that we need to satisfy to balance a budget.
-- This equation can be represented on a graph
-- it would be a downward diagonal line.
+- This equation can be represented on a graph:
 
+![Figure 1](https://github.com/JanVillapaz/ECO1081_AUT2020/blob/master/Consommation/fig1.PNG?raw=true).
+
+Each point on the graph is represents one of the possible combinations. The consumers problem comes down to choosing a point on the "contrainte budgétaire". Calling the point chosen (**x***,**y***). This represents the **quantité demandée** of each goods. 
+
+**x*** = Required quantity of good **x** (cake)
+**y*** = Required quantity of good **y** (coffee)
+
+![Figure 2](https://github.com/JanVillapaz/ECO1081_AUT2020/blob/master/Consommation/fig2.PNG?raw=true).
+
+Think of what you'll choose in these circomstances. Then ask another person qhat she chooses. The choices might be different. One thing is certain: the optimal choice for one person might not neessarily be optimal for the other. The optimal choice depends on the person's "taste" in regards to the 2 goods in question.
+
+Is it possible to represent a persons taste graphicly or algebraicly? YES! In economy we use **courbes d'indifférence** t represent an individuals preferences graphicly, and a **fonction d'utilité** to represent algebraicly. (Talked about at the end of the chapter).
+
+```
+En ´economie on utilise davantage le mot pr´ef´erences que le mot goˆuts. Le mot pr´ef´erences est
+un peu plus math´ematique, car le verbe pr´ef´erer exprime une relation binaire entre objets: on peut
+pr´ef´erer l’option A `a l’option B, ou encore classer plusieurs choses en ordre de pr´ef´erence.
+```
+More generally, the contraint budgetaire looks like this : 
