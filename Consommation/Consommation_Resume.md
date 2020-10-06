@@ -106,3 +106,12 @@ un peu plus math´ematique, car le verbe pr´ef´erer exprime une relation binai
 pr´ef´erer l’option A `a l’option B, ou encore classer plusieurs choses en ordre de pr´ef´erence.
 ```
 More generally, the contraint budgetaire looks like this : 
+
+![Figure 3](https://github.com/JanVillapaz/ECO1081_AUT2020/blob/master/Consommation/fig3.PNG?raw=true).
+
+Notice the right slope. This is always negative, so we don't necessarily specify the negative sign. The important is the slopes value. This expresses the **prix relatif** of the 2 goods.
+
+Prix relatif = |pente| = p_x / p_y
+
+
+
